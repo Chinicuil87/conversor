@@ -9,7 +9,7 @@ import com.google.gson.Gson;
 import com.google.gson.JsonObject;
 
 public class Cambio {
-    private static final String API_KEY = "7a965ef90b42e0b13fb2fe28";
+    private static final String API_KEY = "";
 
     public static double getExchangeRate(String baseCurrency, String targetCurrency) {
         // Construir la URL para la solicitud
