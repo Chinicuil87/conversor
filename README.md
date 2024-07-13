@@ -29,13 +29,9 @@
 
 8. [Tecnologías utilizadas](#tecnologías-utilizadas)
 
-9. [Personas Contribuyentes](#personas-contribuyentes)
+9. [Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
 
-10. [Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
-
-11. [Licencia](#licencia)
-
-12. [Conclusión](#conclusión)
+10. [Conclusión](#conclusión)
 
 ## Descripción del proyecto
 
@@ -46,3 +42,33 @@
 <h4 align="center">
 FINALIZADO
 </h4>
+
+## Características de la aplicación y demostración
+
+> Menu de opciones.
+
+    - Una ves terminado el programa regresa al menu hasta que el usuario seleccione salir.
+
+> Obtencion de informacion desde una API.
+
+- [API](https://www.exchangerate-api.com/)
+
+> Conversion de monedas
+
+    - Opcion de seleccionar la divisa.
+        + Seleccion de divisa por menu.
+        + Cantidad a convertir.
+
+## Acceso al proyecto
+
+## Tecnologías utilizadas
+
+![Static Badge](https://img.shields.io/badge/IDE-IntelliJ-purple)
+
+![Static Badge](https://img.shields.io/badge/LENGUAJE-JAVA-orange)
+
+![Static Badge](https://img.shields.io/badge/JDK-22-red)
+
+## Personas-Desarrolladores del Proyecto
+
+| [<img src="./img/Imagen de WhatsApp 2024-04-03 a las 11.56.47_1cd72efb.jpg" width=115><br><sub>Cesar Lopez Orihuela Alves</sub>](https://github.com/Chinicuil87)
